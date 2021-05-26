@@ -105,7 +105,7 @@ p {
 
 /* Content Class and Article Style End */
 
-/* Aside Style Begin */
+/* Aside Style (Benefits) Begin */
 
 .benefits {
     margin-right: 20px;
@@ -134,7 +134,9 @@ p {
     max-width: 150px;
 }
 
-/* Aside Style End */
+/* Aside Style (Benefits) End */
+
+/* Footer Style Begin */
 
 .footer {
     padding: 30px;
@@ -146,3 +148,5 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+/*Footer Style End */
