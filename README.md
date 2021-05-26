@@ -6,3 +6,5 @@ The purpose of this project is to demonstrate best practices for accesibility an
 4) Sequential arrangement of heading attributes
 5) Inclusion of a concise, descriptive title in the title element
 6) Properly commented and consolidated CSS that matches semantic structure of page
+
+Screenshot of finished project: ![ScreenShot](./Screenshot.png)
